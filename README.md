@@ -1,7 +1,7 @@
 # Smart City Multi-Zone Load Forecasting
 **Tugas Besar Kecerdasan Buatan (TE2514031) - Gasal 2026/2027**  
-**Kelompok 7**
-🌐 **Live Dashboard Streamlit: https://smartcitymultizoneloadforecasting-uxcdy2yxh2zh65fmn2dags.streamlit.app/
+**Kelompok 7.** 
+🌐 **Link Dashboard Streamlit: https://smartcitymultizoneloadforecasting-uxcdy2yxh2zh65fmn2dags.streamlit.app/
 ## 👥 Anggota Kelompok
 - Dhian Rafita Wulan Purnama
 - DION TAMA SILALAHI
