@@ -1,0 +1,19 @@
+Nama Fitur,Bit,Status
+Temperature,1,Terpilih
+Humidity,0,Dieliminasi
+Wind Speed,0,Dieliminasi
+general diffuse flows,0,Dieliminasi
+diffuse flows,1,Terpilih
+Hour_sin,0,Dieliminasi
+Hour_cos,1,Terpilih
+DayOfWeek_sin,1,Terpilih
+DayOfWeek_cos,1,Terpilih
+Z1_Lag_1,0,Dieliminasi
+Z1_Lag_6,0,Dieliminasi
+Z1_Lag_144,1,Terpilih
+Z2_Lag_1,1,Terpilih
+Z2_Lag_6,1,Terpilih
+Z2_Lag_144,0,Dieliminasi
+Z3_Lag_1,0,Dieliminasi
+Z3_Lag_6,1,Terpilih
+Z3_Lag_144,1,Terpilih

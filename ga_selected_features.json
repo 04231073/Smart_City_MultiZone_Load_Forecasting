@@ -1,0 +1,35 @@
+{
+  "best_seed": 42,
+  "selected_features": [
+    "Temperature",
+    "diffuse flows",
+    "Hour_cos",
+    "DayOfWeek_sin",
+    "DayOfWeek_cos",
+    "Z1_Lag_144",
+    "Z2_Lag_1",
+    "Z2_Lag_6",
+    "Z3_Lag_6",
+    "Z3_Lag_144"
+  ],
+  "chromosome": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    1,
+    1
+  ]
+}
