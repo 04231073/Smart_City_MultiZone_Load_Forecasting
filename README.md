@@ -4,7 +4,7 @@
 🌐 **Link Dashboard Streamlit: https://smartcitymultizoneloadforecasting-uxcdy2yxh2zh65fmn2dags.streamlit.app/
 ## 👥 Anggota Kelompok
 - Dhian Rafita Wulan Purnama
-- DION TAMA SILALAHI
+- Dion Tama Silalahi
 - Anggita Sari
 - Radja Jasmin Jamaluddin
 
