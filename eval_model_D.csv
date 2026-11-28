@@ -1,0 +1,2 @@
+Model,Jumlah Fitur,Hidden Units,Seq Length,Learning Rate,Val MSE,Val RMSE (kW),Val MAE (kW),Val R2,Test MSE,Test RMSE (kW),Test MAE (kW),Test R2,Waktu Training (detik)
+Model D (GA + PSO + RNN),10,80,24,0.003162,0.00217,1693.73,1259.54,0.8815,0.00559,2651.78,2169.27,0.735,14.23

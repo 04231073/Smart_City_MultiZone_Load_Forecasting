@@ -1,0 +1,23 @@
+{
+  "selected_features": [
+    "Temperature",
+    "diffuse flows",
+    "Hour_cos",
+    "DayOfWeek_sin",
+    "DayOfWeek_cos",
+    "Z1_Lag_144",
+    "Z2_Lag_1",
+    "Z2_Lag_6",
+    "Z3_Lag_6",
+    "Z3_Lag_144"
+  ],
+  "best_seed": 42,
+  "hidden_dim": 80,
+  "seq_length": 24,
+  "learning_rate": 0.0031622776601683794,
+  "pso_stats": {
+    "best_val_mse": 0.00496955282142153,
+    "mean_val_mse": 0.009835055939523349,
+    "std_val_mse": 0.0035033947866786636
+  }
+}
